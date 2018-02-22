@@ -1,0 +1,30 @@
+
+.movieList{
+	.movie-card{
+		padding: 0em;
+		.thumbnail{
+			background-color: #000;
+			height: 17.5em;
+			width: 9em;
+			img{
+			  height: 13em;
+			}
+			div{
+				.movie-title{
+					/* cursor: pointer; */
+		    		font-weight: 200;
+		    		color: #fff;
+				}
+				.movie-PopOver{
+					cursor: pointer;
+				}
+				.movie-rating{
+	    			padding-left: 5em;
+				    font-size: .6em;
+				    font-weight: 100;
+				    color: #fff;
+	    		}
+			}
+		}
+	}
+}

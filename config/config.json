@@ -1,0 +1,8 @@
+{
+	"moviedbHost":"https://api.themoviedb.org",
+	"apiKey":"6cece89bb14a1fd5810c1ccc684ffb0c",
+	"language":"en-US",
+	"popularMovieURL":"/3/movie/popular",
+	"recommendationMovieURL":"/3/movie/346364/recommendations",
+	"upcomingMovieURL":"/3/movie/upcoming"
+}
